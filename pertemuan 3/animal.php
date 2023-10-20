@@ -63,7 +63,7 @@ $animal->index();
 echo "<br>";
 
 echo "Update - Mengupdate hewan <br>";
-$animal->update(0, 'kucing anggora');
+$animal->update('0) kucing anggora');
 $animal->index();
 echo "<br>";
 
