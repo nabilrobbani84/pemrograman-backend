@@ -1,6 +1,6 @@
 const user = {
-    name : "MuhZaidanRamdhan",
-    age : 20,
+    name : "Nabil Robbani",
+    age : 21,
     address : "Bekasi",
 }
 
